@@ -1,0 +1,7 @@
+{
+    "mongoURI": "mongodb+srv://vee123:vee123@devhub.lgcoe.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret": "mysecrettoken",
+    "githubClientId": "9d8d94d9bad219ef6b0c",
+    "githubSecret": "45045ccd41f93ad8df4ddc976e9b02b60d7c2022"
+}
+  
